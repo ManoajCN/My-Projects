@@ -1,0 +1,27 @@
+.movie-poster{
+    height: 500px;
+    width: 350px;
+    object-fit: cover;
+    border-radius: 10px;
+
+}
+.movie-summary{
+    width: 350px;
+    
+}
+.movie-container{
+    width: 350px;
+    text-align: center;
+    border-radius: 50px;
+    /* background-image: radial-gradient(circle, #000000, #532623, #975420, #bb9900, #a8eb12); */
+}
+.movie-name{
+    text-align: center;
+}
+.movie-spec{
+    text-align: center;
+}
+
+div{
+    background-color: linear-gradient(to left bottom, #000000, #532623, #975420, #bb9900, #a8eb12);
+}
